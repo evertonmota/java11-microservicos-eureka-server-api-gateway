@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>hr-worker</artifactId>
+	<artifactId>ms-worker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-worker</name>
+	<name>ms-worker</name>
 	<description>Worker Microservice</description>
 
 	<properties>
