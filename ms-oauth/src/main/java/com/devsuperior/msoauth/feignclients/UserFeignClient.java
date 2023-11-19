@@ -15,4 +15,7 @@ public interface UserFeignClient {
 
 	@GetMapping(value="/search")
 	ResponseEntity<User> findByEmail(@RequestParam String email);
+
+	@GetMapping(value="/search")
+	ResponseEntity<User> findByUserName(@RequestParam String userName);
 }
